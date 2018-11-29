@@ -20,7 +20,7 @@ Console.WriteLine(publicKey); // 0251036303164f6c458e9f7abecb4e55e5ce9ec2b2f1d06
 ```  
 
 There are two Bitcoin **networks**: 
-* **TestNet** is a Bitcoin network for development purposes. Bitcoins on this network worth nothing.  
+* **TestNet** is a Bitcoin network for development purposes. Bitcoins on this network are worth nothing.  
 * **MainNet** is the Bitcoin network everybody uses.  
 
 > **Note:** You can acquire testnet coins quickly by using **faucets**, just google "get testnet bitcoins".  
